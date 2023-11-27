@@ -42,7 +42,7 @@
     ##### Note:
     - data augmentation could provide more data points
     - but randomized data augmentation would not be good estimate against the real world data
-    ![Alt text](image.png)
+    ![Correlation Matrix](https://github.com/paxF3E/Churn-Prediction/blob/main/image.png?raw=true)
 
 ### Model Building
 - Split the data into train, val and test sets
