@@ -42,6 +42,7 @@
     ##### Note:
     - data augmentation could provide more data points
     - but randomized data augmentation would not be good estimate against the real world data
+    ![Alt text](image.png)
 
 ### Model Building
 - Split the data into train, val and test sets
